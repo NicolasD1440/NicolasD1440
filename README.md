@@ -31,14 +31,12 @@
 
 <div style="text-align: center;">
  <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=NicolasD1440&show_icons=true&theme=dark&locale=en" alt="NicolasD1440" /></p>
+
+   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=NicolasD1440&show_icons=true&theme=dark&locale=en&layout=compact" alt="NicolasD1440" /></p>
   </div>
 </div>
   
-  <div style="text-align: center;">
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=NicolasD1440&show_icons=true&theme=dark&locale=en&layout=compact" alt="NicolasD1440" /></p>
-  </div>
-  </div>
-  
+ 
 <br><br><br><br><br><br><br><br><br><br>
 
 <hr width="60%" >
