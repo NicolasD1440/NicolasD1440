@@ -17,20 +17,16 @@
 
 <hr width="36%" >
 
-<h3>Mis estadísticas de GitHub</h3>
+<h3>My GitHub Stats</h3>
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
+<br>
 
-<div style="display: flex; justify-content: space-between;">
-  <div>
-    <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=NicolasD1440&theme=dark" alt="NicolasD1440" /></p>
-  </div>
-  <div>
-    <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=NicolasD1440&show_icons=true&theme=dark&locale=en" alt="NicolasD1440" /></p>
-  </div>
-</div>
-  <br><br><br><br><br><br><br>
-<div style="display: flex; justify-content: center;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NicolasD1440&show_icons=true&theme=dark&locale=en&layout=compact" alt="NicolasD1440" style="align-self: center;" />
-</div>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=NicolasD1440&show_icons=true&theme=dark&locale=en&layout=compact" alt="NicolasD1440" /></p>
+
+<br><br><br><br><br><br><br>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=NicolasD1440&show_icons=true&theme=dark&locale=en" alt="NicolasD1440" /></p>
+<br><br><br><br><br><br><br><br><br><br>
 
 
 <br><br><br><br><br><br><br><br><br><br>
