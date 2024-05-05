@@ -17,19 +17,25 @@
 
 <hr width="36%" >
 
-<h3>Mis estadisticas de GitHub</h3>
+<h3>Mis estadísticas de GitHub</h3>
 
 <div style="display: flex; justify-content: space-between;">
   <div>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=NicolasD1440&show_icons=true&theme=dark&locale=en&layout=compact" alt="NicolasD1440" />
+    <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=NicolasD1440&show_icons=true&theme=dark&locale=en&layout=compact" alt="NicolasD1440" /></p>
   </div>
   <div>
-    &nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=NicolasD1440&show_icons=true&theme=dark&locale=en" alt="NicolasD1440" />
+    <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=NicolasD1440&theme=dark" alt="NicolasD1440" /></p>
   </div>
 </div>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=NicolasD1440&theme=dark" alt="NicolasD1440" /></p>
 <br><br><br><br><br><br><br><br><br><br>
+
+<div style="text-align: center;">
+  <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=NicolasD1440&show_icons=true&theme=dark&locale=en" alt="NicolasD1440" /></p>
+</div>
+
+<br><br><br><br><br><br><br><br><br><br>
+
 <hr width="60%" >
 <h3 align="left">Connect with me:</h3>
 <p align="left">
