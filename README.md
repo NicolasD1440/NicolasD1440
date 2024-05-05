@@ -29,7 +29,7 @@
 </div>
   <br><br><br><br><br><br><br>
 <div style="display: flex; justify-content: center;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NicolasD1440&show_icons=true&theme=dark&locale=en&layout=compact" alt="NicolasD1440" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NicolasD1440&show_icons=true&theme=dark&locale=en&layout=compact" alt="NicolasD1440" style="align-self: center;" />
 </div>
 
 
