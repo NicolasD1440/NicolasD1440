@@ -29,7 +29,7 @@
 </div>
   <br><br><br><br><br><br><br>
 <div style="text-align: center;">
-  <p style="display: inline-block;"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=NicolasD1440&show_icons=true&theme=dark&locale=en&layout=compact" alt="NicolasD1440" /></p>
+  <img style="display: block; margin: 0 auto;" src="https://github-readme-stats.vercel.app/api/top-langs?username=NicolasD1440&show_icons=true&theme=dark&locale=en&layout=compact" alt="NicolasD1440" />
 </div>
 
 <br><br><br><br><br><br><br><br><br><br>
