@@ -18,14 +18,15 @@
 <hr width="36%" >
 
 <h3>Mis estadísticas de GitHub</h3>
+
 <div style="display: flex; justify-content: space-between;">
   <div>
-  <div>
     <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=NicolasD1440&theme=dark" alt="NicolasD1440" /></p>
-     <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=NicolasD1440&show_icons=true&theme=dark&locale=en" alt="NicolasD1440" /></p>
+  </div>
+  <div>
+    <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=NicolasD1440&show_icons=true&theme=dark&locale=en" alt="NicolasD1440" /></p>
   </div>
 </div>
-
 
   
   <div style="text-align: center;">
